@@ -578,20 +578,16 @@ p {
   --tw-contain-style:  ;
 }
 
-.mb-6{
-  margin-bottom: 1.5rem;
-}
-
 .mb-4{
   margin-bottom: 1rem;
 }
 
-.flex{
-  display: flex;
+.mb-6{
+  margin-bottom: 1.5rem;
 }
 
-.h-\[499px\]{
-  height: 499px;
+.flex{
+  display: flex;
 }
 
 .min-h-screen{
@@ -630,19 +626,14 @@ p {
   border-radius: 20px;
 }
 
-.bg-slate-200{
+.bg-slate-300{
   --tw-bg-opacity: 1;
-  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
+  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
 }
 
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-slate-300{
-  --tw-bg-opacity: 1;
-  background-color: rgb(203 213 225 / var(--tw-bg-opacity));
 }
 
 .p-4{
